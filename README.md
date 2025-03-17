@@ -1,6 +1,6 @@
 ﻿# FineTuning
 
-## Hugging_Face : https://huggingface.co/sureal01/distilgpt2-code-generator/blob/main/README.md
+## Hugging_Face : https://huggingface.co/sureal01/distilgpt2-code-generator/
 # 🚀 AI Code Generator (Explanation → JavaScript Code)
 
 This project fine-tunes **DistilGPT-2** to **generate JavaScript code** from natural language explanations.  
